@@ -99,7 +99,7 @@ public class TickerManager {
 				}
 			System.out.println("Last timestamp is "+last_timestamp.getTime());
 			Thread.sleep(3000);
-			}
+			} 
 
 		} catch (InterruptedException e) {
 			e.printStackTrace();
