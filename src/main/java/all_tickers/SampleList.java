@@ -2,7 +2,7 @@ package all_tickers;
 
 import org.knowm.xchange.currency.CurrencyPair;
 import org.knowm.xchange.dto.marketdata.Ticker;
-import quickfix.field.Price;
+
 
 import java.math.BigDecimal;
 import java.sql.Timestamp;
